@@ -5,6 +5,7 @@ langchain-community
 langchain-core
 langchain-openai
 langchain-google-genai
+google-genai
 langchain-groq
 langchain-huggingface
 langchain-chroma
